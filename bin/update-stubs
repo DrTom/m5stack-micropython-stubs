@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+stubgen -o tmp/ uiflow-micropython/m5stack/libs/
